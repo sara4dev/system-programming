@@ -1,5 +1,7 @@
 # system-programming [<img src="https://travis-ci.org/saravanakumar-periyasamy/system-programming.svg?branch=master">](https://travis-ci.org/saravanakumar-periyasamy/system-programming)
 
+This project will list all the files under given mount/directory, and it's size as json. 
+
 ## Requirements
 
 * Python 2.7
@@ -35,7 +37,7 @@ And sample output will look like this
     ]
 }
 ```
-   
+
 ## Build
 
 This repo is hooked to Travis CI, and it runs through the unit test cases for every commit. Refer `.travis.yml` for more information.
